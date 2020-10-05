@@ -11,7 +11,13 @@ Requirements:
     MongoDB
 
     To install virtal environment, follow the command below:-
+    ```
     python3 -m install --user virtualenv
+    python3 -m pip install --upgrade pip
+    pip3 install virtualenv
+    python3 -m venv env
+    pip install -r requirements.txt
+    ```
 
 To run the program follow the commands below,
 
