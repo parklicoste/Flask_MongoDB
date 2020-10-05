@@ -11,19 +11,23 @@ Requirements:
     MongoDB
 
     To install virtal environment, follow the command below:-
-    ```
+
+```
     python3 -m install --user virtualenv
     python3 -m pip install --upgrade pip
     pip3 install virtualenv
     python3 -m venv env
     pip install -r requirements.txt
-    ```
+```
 
 To run the program follow the commands below,
 
-    1)  source env/bin/activate
-    2)  export FLASK_APP=app.py
-    3)  export FLASK_DEBUG=True
+```
+    source env/bin/activate
+    export FLASK_APP=app.py
+    export FLASK_DEBUG=True
+    python3 -m flask run
+```
 
 Now, go into the public folder type the following commands:-
 
