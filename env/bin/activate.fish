@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/parklicoste/Documents/Stash-projects/CRUD/env"
+set -gx VIRTUAL_ENV "/Users/parklicoste/Documents/Flask_MongoDB/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
