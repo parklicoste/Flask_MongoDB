@@ -10,7 +10,7 @@ Requirements:
     npm 6.17 above
     MongoDB
 
-    To install virtal environment, follow the command below:-
+To install virtal environment, follow the command below:-
 
 ```
     python3 -m install --user virtualenv
